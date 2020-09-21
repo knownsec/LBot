@@ -11,7 +11,7 @@ LBot的基础模型是脱胎于LSpider诞生的多线程任务调度模型。
 ## 下载Lbot
 
 ```
-git clone https://github.com/LoRexxar/Lbot.git
+git clone https://github.com/knownsec/LBot.git
 ```
 
 ## 修改配置文件
